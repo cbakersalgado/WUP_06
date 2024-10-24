@@ -98,10 +98,10 @@ The P-value for the Chi-squared test was 0. Since it's a small amount, we reject
 fisherXY(mydata$cappun,mydata$race)
 ```
  
- White people in primary favor of capital punishment along with a mix of others. Black people are the only primary in opposition though with a margin of 26 individuals.
+ White people in primary favor of capital punishment along with a mix of other groups of people. Black people are the only primary in opposition though with a margin of 26 individuals.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-The question was "Is attitude toward capitol punishment independent of race?" Yes. In each of the tables, all groups had consistent opposing views, some who lean far to one side while others try to keep in the center. With white people leaning heavily towards favoring capital punishment, black people being split down the middle, and other groups constantly transitioning between major. favor and major. opposition. 
+The question is "Is attitude toward capitol punishment independent of race?" Yes. In each of the tables, all groups had consistent opposing views, some who lean far to one side while others try to keep in the center. With white people leaning heavily towards favoring capital punishment, black people being split down the middle, and other groups constantly transitioning between major. favor and major. opposition. 
